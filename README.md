@@ -7,13 +7,13 @@ Sorry, not now. Thereby *Kaleidoscope* is not turing-complete.
 Currently, we have the following ops:
 - unary: + -
 - binary: + -
+- argument: ,
 - assignment: =
 - precedence: ( )
-- function argument: ,(comma)
 
 ### Is there any build-in constants or functions to apply?
 Yes, of cource.
-Right now, you can use *pi* and *e* and many other frequently used functions like **sin**, **abs** and so on and so forth.
+Right now, you can use *pi* and *e* and many other frequently used functions like **sin()**, **abs()** and so on and so forth.
 
 ### Does it have any type system?
 Uh-ha, we are considering this to be future work.
