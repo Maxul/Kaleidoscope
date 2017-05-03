@@ -1,6 +1,6 @@
 # *Kaleidoscope* - Primary Functional Programming Interpreter
 
-### Does it support branch like "*if*" "*while*" "*for*", etc?
+### Does it support branches or loops like "*if*" "*while*" "*for*", etc?
 Sorry, not now. Thereby *Kaleidoscope* is not turing-complete.
 
 ### What operators can we use for calculation?
