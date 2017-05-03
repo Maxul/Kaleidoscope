@@ -19,7 +19,7 @@ Right now, you can use *pi* and *e* and many other frequently used functions lik
 Uh-huh, we are considering this to be a future work.  
 Right now in *Kaleidoscope* every literal is a 64-bit double precision floating point numeric.
 
-### What can be a valid identifier name?
+### Which kind of identifier name is valid?
 [a-zA-Z][a-zA-Z0-9]\*
 
 ### Any tips on getting hands dirty on *Kaleidoscope*?
