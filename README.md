@@ -37,10 +37,10 @@ Functions are merely a constrained form of variables. Consider the following exa
 
 They are just the same, i.e. a fixed point in Euclidean space.
 > f(k, b) = k * 10 + b  
-g = x * 10 + y  
+> g = x * 10 + y  
 
 The former is constrained by parameter *k* and *b*. Only when they are set, this function can be evaluated successfully. However, the latter must know *x* and *y* so as to obtain the value of *g*.  
 Just bear in mind, functions are those that store whole process in memory, in which case, we call it a **closure**.
 
 ### Anything else?
-Nope, we hope you **enjoy** it!
+Nope. We hope you **enjoy** it!
