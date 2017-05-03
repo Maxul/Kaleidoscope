@@ -1,5 +1,4 @@
-# Kaleidoscope - Primary functional programming interpreter
-===============================================
+# *Kaleidoscope* - Primary Functional Programming Interpreter
 
 ### Does it support branch like "if" "while" "for", etc?
 Sorry, not now. Thereby *Kaleidoscope* is not turing-complete.
@@ -39,5 +38,5 @@ They are just the same, i.e. a fixed-point on Euclidean space.
 * g = x * 10 + y
 The former is constrained by parameter *k* and *b*. Only if they are set this function can be evaluated. However, the latter must know *x* and *y* so as to obtain the value of *g*. Just bear in mind, functions are those that store whole process in memory, in which case, we call it a closure.
 
-### Any else?
+### Anything else?
 Hope you **enjoy** it!
