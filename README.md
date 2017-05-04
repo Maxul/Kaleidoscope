@@ -40,7 +40,7 @@ They are just the same, i.e. a fixed point in Euclidean space.
 > g = x * 10 + y  
 
 The former is constrained by parameter *k* and *b*. Only when they are set, this function can be evaluated successfully. However, the latter must know *x* and *y* so as to obtain the value of *g*.  
-Just bear in mind, functions are those that store whole process in memory, in which case, we call it a **closure**.
+Just bear in mind, functions are those that store whole procedures (including their environments) in memory, in which case, they are typically referred to as **closures**.
 
 ### Anything else?
 Nope. We hope you **enjoy** it!
